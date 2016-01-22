@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpendingTracker</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_Text">Category</string>
+    <string name="date_Text">Date</string>
+    <string name="amount_Text">Amount</string>
+    <string name="view_Button">View Expenses</string>
+    <string name="add_Button">Add</string>
+    <string name="my_balance">My Balance</string>
+    <string name="my_Balance">My Balance</string>
+
+
+</resources>
